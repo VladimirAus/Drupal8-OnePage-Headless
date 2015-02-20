@@ -18,7 +18,7 @@ readonly DBCONN="mysql://$DBLOGIN:$DBPSWD@$DBSERVER/$DBNAME"
 # readonly LMSCONFIG="lms.d8.config"
 
 # Download Drupal
-drush7 dl drupal-8.0.x
+drush7 dl drupal-8
 rm -rf docroot
 mv drupal-$DVER docroot
 cd docroot
