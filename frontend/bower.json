@@ -1,0 +1,26 @@
+{
+  "name": "FounAngo-d8",
+  "description": "Foundation and angular frontend for drupal 8",
+  "version": "0.0.1",
+  "dependencies": {
+    "foundation": "~5.5.1",
+    "angular": "~1.4.0"
+  },
+  "homepage": "https://github.com/VladimirAus/Drupal8-OnePage-Headless",
+  "authors": [
+    "Vladimir Roudakov vladimir@tomato-elephant-studio.com"
+  ],
+  "keywords": [
+    "drupal",
+    "foundation",
+    "angular"
+  ],
+  "license": "GNU General Public License, version 2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
